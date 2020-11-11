@@ -1,0 +1,12 @@
+main: me.specifies.AutoMiner.AutoMiner
+name: AutoMiner
+version: 1.0
+
+depend:
+  - IridiumSkyblock
+
+commands:
+  autominer:
+    description: Command to interact with the autominer plugin.
+    aliases: [am]
+

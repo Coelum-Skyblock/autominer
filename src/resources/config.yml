@@ -1,0 +1,15 @@
+sql-lite-file: "data.db"
+
+# put the rates of resources per minute you want to give a player
+rates:
+  diamonds: 10
+  cobblestone: 128
+  iron_ore: 10
+  gold_ore: 5
+  coal: 15
+  redstone: 2
+
+# every <multiplier-increase> island levels a player has, the plugin will multiply the resource gain by the modifier
+multiplier-increase: 100
+
+modifier: .02
